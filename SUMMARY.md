@@ -1,5 +1,5 @@
 # Summary
 
 * [introduction](README.md)
-* [First Chapter](chapter1.md)
+* [部品一覧](chapter1.md)
 
