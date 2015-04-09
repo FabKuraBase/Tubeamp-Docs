@@ -5,4 +5,5 @@
 * [基板作成](chapter2.md)
 * [ケース加工](chapter3.md)
 * [組み立て](chapter4.md)
+* 配線
 
